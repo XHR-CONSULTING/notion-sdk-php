@@ -14,6 +14,7 @@ enum Color: string
     case Purple = "purple";
     case Pink = "pink";
     case Red = "red";
+    case DefaultBackground = "default_background";
     case GrayBackground = "gray_background";
     case BrownBackground = "brown_background";
     case OrangeBackground = "orange_background";
